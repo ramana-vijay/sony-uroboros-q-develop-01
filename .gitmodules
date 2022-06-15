@@ -1,3 +1,4 @@
 [submodule "dubplicate"]
 	path = dubplicate
 	url = https://github.com/ramana-vijay/dubplicate.git
+        ignore = dirty
